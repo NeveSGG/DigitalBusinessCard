@@ -1,0 +1,9 @@
+.header {
+    text-align: center;
+}
+
+.header--photo {
+    width: 100%;
+    max-width: 70rem;
+    max-height: 70rem;
+}

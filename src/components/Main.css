@@ -1,0 +1,97 @@
+.name {
+    margin: 0;
+    text-align: center;
+    padding-top: 70px;
+    font-weight: 700;
+    font-size: 90px;
+    color: #fff;
+}
+
+.profession {
+    margin: 0;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 27px;
+    color: #F3BF99;
+    font-weight: 300;
+}
+
+.website {
+    margin: 0;
+    padding-top: 50px;
+    
+    
+    text-align: center;
+}
+
+.website > a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 200;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+
+.buttons-left, .buttons-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+
+
+	padding: 20px 70px;
+    
+    
+	outline: none;
+	border: none;  
+	border-radius: 20px;
+	font-weight: 500;
+	text-decoration: none;
+    font-size: 55px;
+}
+
+.buttons-left {
+    margin-right: 40px;
+    color: #1E1F26;
+}
+
+.buttons-right {
+    margin-left: 40px;
+    color: #fff;
+    background-color: #5093E2;
+}
+
+.buttons-left--icon {
+    width: 44px;
+    margin-right: 20px;
+}
+
+.buttons-right--icon {
+    width: 55px;
+    margin-right: 20px;
+}
+
+.info {
+    padding: 60px 5.5rem;
+}
+
+.about-title, .interests-title {
+    color: #F5F5F5;
+    font-size: 40px;
+}
+
+.interests-title {
+    padding-top: 30px;
+}
+
+.about-text, .interests-text {
+    line-height: 45px;
+    color: #DCDCDC;
+    font-weight: 300;
+    font-size: 14px;
+}
